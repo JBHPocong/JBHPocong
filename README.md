@@ -1,39 +1,100 @@
-# Hi, I'm Arden Vey 👋
+<!--
+  JBHPocong | GitHub Profile README
+  Repository: JBHPocong/JBHPocong
+-->
 
-### Android Kernel Developer | Custom ROM Developer
+<div align="center">
 
-I'm interested in Android kernel development, Linux, and custom ROM development.
+# `JBHPocong`
 
-- 🔧 Working on Android kernel development
-- 🐧 Daily driving Debian Linux
-- 📱 Exploring Android mainline and custom ROMs
-- 💻 Learning and improving my development skills
+### Android Kernel Developer · Custom ROM Enthusiast
 
-### 🛠️ Tech Stack
+*Exploring Android internals, Linux, and low-level system development.*
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Make](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/ardenvey">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ardenvey&show_icons=true&theme=radical&hide_border=true" />
+<a href="https://github.com/JBHPocong">
+  <img src="https://img.shields.io/badge/GitHub-JBHPocong-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<a href="https://github.com/ardenvey">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardenvey&layout=compact&theme=radical&hide_border=true" />
+<a href="https://github.com/JBHPocong?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-8A2BE2?style=for-the-badge&logo=git" alt="Repositories"/>
 </a>
 
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ardenvey&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</div>
 
 ---
 
-*Building, learning, and experimenting with code.*
+## `$ whoami`
+
+```bash
+Name     : JBHPocong
+OS       : Debian Linux
+Interests: Android Kernel Development
+           Custom ROM Development
+           Linux & System Optimization
+```
+
+I'm passionate about exploring Android internals, modifying Linux kernels, and experimenting with custom ROMs.
+
+- ⚙️ Android kernel development and configuration
+- 📱 Custom ROMs, Android mainline, and device bring-up
+- 🐧 Linux development and shell scripting
+- 🔍 Debugging, performance tuning, and problem solving
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=c,html,css,js,php,bash" alt="C, HTML, CSS, JavaScript, PHP, Bash"/>
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Linux, Git, GitHub, VS Code"/>
+
+</div>
+
+| Area | Skills |
+|---|---|
+| Programming | C, HTML, CSS, JavaScript, PHP |
+| Build systems | GNU Make, Makefiles, Shell scripting |
+| Operating systems | Debian Linux, Android |
+| Version control | Git, GitHub |
+| Android | Kernel development, custom ROMs, device trees |
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/JBHPocong">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JBHPocong&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="JBHPocong GitHub Stats"/>
+</a>
+<a href="https://github.com/JBHPocong">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBHPocong&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=JBHPocong&theme=radical&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+## 🎯 Current Interests
+
+- 🔧 Linux kernel internals and device drivers
+- 📲 Android mainline and custom ROM development
+- ⚡ CPU frequency scaling and system performance
+- 🧰 Build automation and development workflows
+
+## 📫 Find Me
+
+<div align="center">
+
+<a href="https://github.com/JBHPocong">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
+
+<br/><br/>
+
+**Build. Debug. Optimize. Repeat.**
+
+</div>
